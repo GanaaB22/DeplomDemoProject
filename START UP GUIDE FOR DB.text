@@ -1,0 +1,9 @@
+localhost:8080/h2-console
+
+Go to http://localhost:8080/h2-console in your browser.
+
+Important: Change the JDBC URL in the login box to match exactly what you wrote in your properties: jdbc:h2:mem:testdb.
+
+Type your username (Ganaa) and password (1234).
+
+Click Connect.
